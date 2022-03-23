@@ -40,6 +40,8 @@ int main() {
         // cout << "1) Add:" << endl;
         // cout << "2) Divide:" << endl;
         // you get the point
+        
+        // instead it's just one big ugly line
 
         std::cin >> op;
 
